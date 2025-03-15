@@ -1,0 +1,1 @@
+This repository contains resources of GHC application. Resources include requirements, analysis and design documents. Also it has database scripts, tomcat server configurations to setup the GHC project for development.
